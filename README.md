@@ -27,7 +27,7 @@ Levels and progression: levels are predefined wall designs; clearing current bri
 Scoring & difficulty: score increments on brick destruction; paddle speed and other parameters may increase as score grows.
 Lives & Game Over: missing the ball reduces lives; when lives reach zero the game ends.
 
-**UI**
+**User Interface**
 On-screen menu shows play/pause and restart/quit icons.
 Score, lives and level progression are reflected through gameplay events and printed messages.    
 
