@@ -30,4 +30,4 @@ Lives & Game Over: missing the ball reduces lives; when lives reach zero the gam
 **UI**
 On-screen menu shows play/pause and restart/quit icons.
 Score, lives and level progression are reflected through gameplay events and printed messages.
-GPT-5 mini • 0x
+
